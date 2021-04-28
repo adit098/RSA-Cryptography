@@ -1,8 +1,8 @@
 # Client and Server Application with Confidential Message Exchange
 
-This is a scoket program in which the client encrypts a message using given key and the converted ciphertext message gets passed to the server (on the same pc(network)) and then Server receive the encrypted message and the key. The Server then perfom decryption operation on the received encrypted message using the key.
+This is a Socket Program in which the Client encrypts a message using given key and the converted ciphertext message gets passed to the Server (on the same pc(network)) and then Server receive the encrypted message and the key. The Server then performs decryption operation on the received encrypted message using the key.
 
->Note: __Simplified__ AES has been used for Encryption and Decryption.
+>Note: [__Simplified__ AES](https://github.com/adit098/AES-Cryptography) has been used for Encryption and Decryption.
 
 ***
 
